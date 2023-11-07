@@ -1,0 +1,15 @@
+package odev1{
+
+
+    public class main{
+
+
+
+        public static void main(String[] args){
+            int sayi=15;
+            String yazi="Hello World";
+            System.out.println(sayi);
+            System.out.println(yazi);
+        }
+    }
+}
